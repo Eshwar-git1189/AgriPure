@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enter Details</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Please Enter Details</h1>
+        <form id="detailsForm">
+            <div class="input-group">
+                <label for="input1">Category of Crop:</label>
+                <select id="input1" required>
+                    <option value="">Select Category</option>
+                </select>
+                <div class="loading" id="loading1">Loading...</div>
+            </div>
+            <div class="input-group">
+                <label for="input2">Sub Crop:</label>
+                <select id="input2" required>
+                    <option value="">Select Sub Crop</option>
+                </select>
+                <div class="loading" id="loading2">Loading...</div>
+            </div>
+            <div class="input-group">
+                <label for="input3">District:</label>
+                <select id="input3" required>
+                    <option value="">Select District</option>
+                </select>
+                <div class="loading" id="loading3">Loading...</div>
+            </div>
+            <div class="input-group">
+                <label for="input4">Type of Soil:</label>
+                <select id="input4" required>
+                    <option value="">Select Soil Type</option>
+                    <option value="clay">Clay Soil</option>
+                    <option value="sandy">Sandy Soil</option>
+                    <option value="loamy">Loamy Soil</option>
+                    <option value="Alluvial">Alluvial Soil</option>
+                    <option value="black">Black Soil</option>
+                    <option value="red">Red Soil</option>
+                    <option value="laterite">Laterite Soil</option>
+                </select>
+                <div class="loading" id="loading4">Loading...</div>
+            </div>
+            <button type="submit" onclick="window.location.href='./Dashboard/dash.html';"class="btn">Submit</button>
+        </form>
+    </div>
+    <div class="gtranslate_wrapper"></div>
+    <script>
+        window.gtranslateSettings = {
+          default_language: "en",
+          native_language_names: true,
+          detect_browser_language: true,
+          languages: ["en", "kn"],
+          wrapper_selector: ".gtranslate_wrapper",
+          horizontal_position: "right",
+          vertical_position: "top",
+        };
+      </script>
+    <script
+      src="https://cdn.gtranslate.net/widgets/latest/ln.js"
+      defer
+    ></script>
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <script src="form.js"></script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Farming Assistant Chatbot</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="chat-container">
+            <div class="chat-header">
+                <h1>🌾 Farming Assistant</h1>
+            </div>
+            <div class="chat-messages" id="chatMessages">
+                <div class="message bot">
+                    Hello! I'm your farming assistant. I can help you with:
+                    1. Crop information
+                    2. Soil types
+                    3. Fertilizer recommendations
+                    
+                    What would you like to know about?
+                </div>
+            </div>
+            <div class="chat-input">
+                <input type="text" id="userInput" placeholder="Type your question here...">
+                <button onclick="sendMessage()">Send</button>
+            </div>
+        </div>
+    </div>
+    <script src="database.js"></script>
+    <script src="main.js"></script> 
+    <div class="gtranslate_wrapper"></div>
+    <script>
+      window.gtranslateSettings = {
+        default_language: "en",
+        native_language_names: true,
+        detect_browser_language: true,
+        languages: ["en", "kn"],
+        wrapper_selector: ".gtranslate_wrapper",
+        horizontal_position: "right",
+        vertical_position: "top",
+      };
+    </script>
+    <script
+      src="https://cdn.gtranslate.net/widgets/latest/ln.js"
+      defer
+    ></script>
+</body>
+</html>

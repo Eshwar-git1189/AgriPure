@@ -1,0 +1,25 @@
+{
+    "input1Values": [
+      "Food Grains", "Pulses", "Oilseeds", "Cash Crops", "Horticultural Crops",
+      "Fruits", "Vegetables", "Spices and Condiments", "Plantation Crops"
+    ],
+    "input2Values": {
+      "Food Grains": ["Rice (Paddy)", "Ragi (Finger Millet)", "Jowar (Sorghum)", "Maize (Corn)", "Bajra (Pearl Millet)", "Wheat"],
+      "Pulses": ["Red Gram (Toor or Arhar)", "Green Gram (Moong)", "Black Gram (Urad)", "Bengal Gram (Chickpeas)", "Horse Gram"],
+      "Oilseeds": ["Groundnut", "Sunflower", "Sesame(Til)", "Castor", "Siyabean"],
+      "Cash Crops": ["Sugarcane", "Cotton", "Tobacco"],
+      "Horticultural Crops": ["Coconut", "Arecanut (Betel Nut)", "Coffee", "Pepper", "Cardamom", "Cashew Nut"],
+      "Fruits": ["Banana", "Mango", "Papaya", "Pineapple", "Sapota(Chikoo)", "Jack Fruit", "Grapes", "Guava", "Pomegranate"],
+      "Vegetables": ["Tomato", "Onion", "Potato", "Brinjal (Eggplant)", "Okra (Lady's Finger)", "Cabbage", "Cauliflower", "Beans", "Carrot"],
+      "Spices and Condiments": ["Turmeric", "Ginger", "Garlic"],
+      "Plantation Crops": ["Rubber", "Tea"]
+    },
+    "karnatakaDistricts": [
+      "Bagalkot", "Ballari", "Belagavi", "Bengaluru Rural", "Bengaluru Urban",
+      "Bidar", "Chamarajanagar", "Chikkaballapur", "Chikkamagaluru", "Chitradurga",
+      "Dakshina Kannada", "Davanagere", "Dharwad", "Gadag", "Hassan", "Haveri",
+      "Kalaburagi", "Kodagu", "Kolar", "Koppal", "Mandya", "Mysuru", "Raichur",
+      "Ramanagara", "Shivamogga", "Tumakuru", "Udupi", "Uttara Kannada",
+      "Vijayapura", "Yadgir"
+    ]
+}

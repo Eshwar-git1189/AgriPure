@@ -1,0 +1,1873 @@
+{
+    "crops": [
+        {
+            "category": "Food Grains",
+            "crops": [
+                {
+                    "name": "Rice (Paddy)",
+                    "fertilizers": [
+                        {
+                            "name": "Nitrogen",
+                            "details": {
+                                "quantity": "60-80 kg/ha",
+                                "cost": "₹30/kg",
+                                "image_url": "https://content.jdmagicbox.com/quickquotes/images_main/nitrogen-based-fertilizer-801175199-dk0poym8.jpg?impolicy=queryparam&im=Resize=(360,360),aspect=fit"
+                            }
+                        },
+                        {
+                            "name": "Phosphorus",
+                            "details": {
+                                "quantity": "30-40 kg/ha",
+                                "cost": "₹50/kg",
+                                "image_url": "https://www.phoslab.com/wp-content/uploads/2013/05/fertilizer-numbers.jpg"
+                            }
+                        },
+                        {
+                            "name": "Potassium",
+                            "details": {
+                                "quantity": "30-40 kg/ha",
+                                "cost": "₹40/kg",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2022-02/Potassium%20Nitrate%20Front.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Carbofuran",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost": "₹500/kg",
+                                "image_url": "https://cubicfertichem.com/assets/images/products/insecticides/carbon.jpg"
+                            }
+                        },
+                        {
+                            "name": "Thiamethoxam",
+                            "details": {
+                                "quantity": "0.25 kg/ha",
+                                "cost": "₹2000/kg",
+                                "image_url": "https://agribegri.com/productimage/d8e66745571e102237fa0e670659f7ca-11-20-23-10-22-08.webp"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ragi (Finger Millet)",
+                    "fertilizers": [
+                        {
+                            "name": "Nitrogen",
+                            "details": {
+                                "quantity": "50-70 kg/ha",
+                                "cost": "₹30/kg",
+                                "image_url": "https://content.jdmagicbox.com/quickquotes/images_main/nitrogen-based-fertilizer-801175199-dk0poym8.jpg?impolicy=queryparam&im=Resize=(360,360),aspect=fit"
+                            }
+                        },
+                        {
+                            "name": "Phosphorus",
+                            "details": {
+                                "quantity": "30-35 kg/ha",
+                                "cost": "₹50/kg",
+                                "image_url": "https://www.phoslab.com/wp-content/uploads/2013/05/fertilizer-numbers.jpg"
+                            }
+                        },
+                        {
+                            "name": "Potassium",
+                            "details": {
+                                "quantity": "20-25 kg/ha",
+                                "cost": "₹40/kg",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2022-02/Potassium%20Nitrate%20Front.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Carbendazim",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost": "₹700/kg",
+                                "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/8/440097120/SC/ZV/FQ/49379719/carbendazim-50-wp-500x500.jpeg"
+                            }
+                        },
+                        {
+                            "name": "Chlorpyrifos",
+                            "details": {
+                                "quantity": "1.5 kg/ha",
+                                "cost": "₹600/kg",
+                                "image_url": "https://www.vsdindustries.com/assets/img/blog/seo-img03.jpg"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Jowar (Sorghum)",
+                    "fertilizers": [
+                        {
+                            "name": "Nitrogen",
+                            "details": {
+                                "quantity": "60-80 kg/ha",
+                                "cost": "₹30/kg",
+                                "image_url": "https://content.jdmagicbox.com/quickquotes/images_main/nitrogen-based-fertilizer-801175199-dk0poym8.jpg?impolicy=queryparam&im=Resize=(360,360),aspect=fit"
+                            }
+                        },
+                        {
+                            "name": "Phosphorus",
+                            "details": {
+                                "quantity": "30-35 kg/ha",
+                                "cost": "₹50/kg",
+                                "image_url": "https://www.phoslab.com/wp-content/uploads/2013/05/fertilizer-numbers.jpg"
+                            }
+                        },
+                        {
+                            "name": "Potassium",
+                            "details": {
+                                "quantity": "20-25 kg/ha",
+                                "cost": "₹40/kg",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2022-02/Potassium%20Nitrate%20Front.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Carbendazim",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost": "₹700/kg",
+                                "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/8/440097120/SC/ZV/FQ/49379719/carbendazim-50-wp-500x500.jpeg"
+                            }
+                        },
+                        {
+                            "name": "Chlorpyrifos",
+                            "details": {
+                                "quantity": "1.5 kg/ha",
+                                "cost": "₹600/kg",
+                                "image_url": "https://www.vsdindustries.com/assets/img/blog/seo-img03.jpg"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Maize (Corn)",
+                    "fertilizers": [
+                        {
+                            "name": "Nitrogen",
+                            "details": {
+                                "quantity": "80-100 kg/ha",
+                                "cost": "₹30/kg",
+                                "image_url": "https://content.jdmagicbox.com/quickquotes/images_main/nitrogen-based-fertilizer-801175199-dk0poym8.jpg?impolicy=queryparam&im=Resize=(360,360),aspect=fit"
+                            }
+                        },
+                        {
+                            "name": "Phosphorus",
+                            "details": {
+                                "quantity": "50 kg/ha",
+                                "cost": "₹50/kg",
+                                "image_url": "https://www.phoslab.com/wp-content/uploads/2013/05/fertilizer-numbers.jpg"
+                            }
+                        },
+                        {
+                            "name": "Potassium",
+                            "details": {
+                                "quantity": "30 kg/ha",
+                                "cost": "₹40/kg",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2022-02/Potassium%20Nitrate%20Front.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Lambda-cyhalothrin",
+                            "details": {
+                                "quantity": "0.25 kg/ha",
+                                "cost": "₹2500/kg",
+                                "image_url": "https://img.4imz.com/media/A5A57I3L/product/lambda-cyhalothrin-50-ec-1544101942.png"
+                            }
+                        },
+                        {
+                            "name": "Chlorpyrifos",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost": "₹600/kg",
+                                "image_url": "https://www.vsdindustries.com/assets/img/blog/seo-img03.jpg"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Bajra (Pearl Millet)",
+                    "fertilizers": [
+                        {
+                            "name": "Nitrogen",
+                            "details": {
+                                "quantity": "50-60 kg/ha",
+                                "cost": "₹30/kg",
+                                "image_url": "https://content.jdmagicbox.com/quickquotes/images_main/nitrogen-based-fertilizer-801175199-dk0poym8.jpg?impolicy=queryparam&im=Resize=(360,360),aspect=fit"
+                            }
+                        },
+                        {
+                            "name": "Phosphorus",
+                            "details": {
+                                "quantity": "20-25 kg/ha",
+                                "cost": "₹50/kg",
+                                "image_url": "https://www.phoslab.com/wp-content/uploads/2013/05/fertilizer-numbers.jpg"
+                            }
+                        },
+                        {
+                            "name": "Potassium",
+                            "details": {
+                                "quantity": "20 kg/ha",
+                                "cost": "₹40/kg",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2022-02/Potassium%20Nitrate%20Front.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Chlorpyrifos",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost": "₹600/kg",
+                                "image_url": "https://www.vsdindustries.com/assets/img/blog/seo-img03.jpg"
+                            }
+                        },
+                        {
+                            "name": "Imidacloprid",
+                            "details": {
+                                "quantity": "0.5 kg/ha",
+                                "cost": "₹2000/kg",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/08/IMD178-1.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Wheat",
+                    "fertilizers": [
+                        {
+                            "name": "Nitrogen",
+                            "details": {
+                                "quantity": "80-100 kg/ha",
+                                "cost": "₹30/kg",
+                                "image_url": "https://content.jdmagicbox.com/quickquotes/images_main/nitrogen-based-fertilizer-801175199-dk0poym8.jpg?impolicy=queryparam&im=Resize=(360,360),aspect=fit"
+                            }
+                        },
+                        {
+                            "name": "Phosphorus",
+                            "details": {
+                                "quantity": "40 kg/ha",
+                                "cost": "₹50/kg",
+                                "image_url": "https://www.phoslab.com/wp-content/uploads/2013/05/fertilizer-numbers.jpg"
+                            }
+                        },
+                        {
+                            "name": "Potassium",
+                            "details": {
+                                "quantity": "20 kg/ha",
+                                "cost": "₹40/kg",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2022-02/Potassium%20Nitrate%20Front.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Carbendazim",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost": "₹700/kg",
+                                "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/8/440097120/SC/ZV/FQ/49379719/carbendazim-50-wp-500x500.jpeg"
+                            }
+                        },
+                        {
+                            "name": "Thiodicarb",
+                            "details": {
+                                "quantity": "0.5 kg/ha",
+                                "cost": "₹1500/kg",
+                                "image_url": "https://www.kingquenson.com/FilesUpload/2018-12/2018120616121982941.jpg"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },        
+        {
+            "category": "Pulses",
+            "crops": [
+                {
+                    "name": "Red Gram (Toor or Arhar)",
+                    "fertilizers": [
+                        {
+                            "name": "Phosphorus",
+                            "details": {
+                                "quantity": "30-40 kg/ha",
+                                "cost": "₹50/kg",
+                                "image_url": "https://www.phoslab.com/wp-content/uploads/2013/05/fertilizer-numbers.jpg"
+                            }
+                        },
+                        {
+                            "name": "Potassium",
+                            "details": {
+                                "quantity": "20 kg/ha",
+                                "cost": "₹40/kg",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2022-02/Potassium%20Nitrate%20Front.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Imidacloprid",
+                            "details": {
+                                "quantity": "0.5 kg/ha",
+                                "cost": "₹2000/kg",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/08/IMD178-1.png"
+                            }
+                        },
+                        {
+                            "name": "Carbendazim",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost": "₹700/kg",
+                                "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/8/440097120/SC/ZV/FQ/49379719/carbendazim-50-wp-500x500.jpeg"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Green Gram (Moong)",
+                    "fertilizers": [
+                        {
+                            "name": "Phosphorus",
+                            "details": {
+                                "quantity": "30-40 kg/ha",
+                                "cost": "₹50/kg",
+                                "image_url": "https://www.phoslab.com/wp-content/uploads/2013/05/fertilizer-numbers.jpg"
+                            }
+                        },
+                        {
+                            "name": "Potassium",
+                            "details": {
+                                "quantity": "20 kg/ha",
+                                "cost": "₹40/kg",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2022-02/Potassium%20Nitrate%20Front.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Imidacloprid",
+                            "details": {
+                                "quantity": "0.5 kg/ha",
+                                "cost": "₹2000/kg",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/08/IMD178-1.png"
+                            }
+                        },
+                        {
+                            "name": "Chlorpyrifos",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost": "₹600/kg",
+                                "image_url": "https://www.vsdindustries.com/assets/img/blog/seo-img03.jpg"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Black Gram (Urad)",
+                    "fertilizers": [
+                        {
+                            "name": "Phosphorus",
+                            "details": {
+                                "quantity": "30-40 kg/ha",
+                                "cost": "₹50/kg",
+                                "image_url": "https://www.phoslab.com/wp-content/uploads/2013/05/fertilizer-numbers.jpg"
+                            }
+                        },
+                        {
+                            "name": "Potassium",
+                            "details": {
+                                "quantity": "20 kg/ha",
+                                "cost": "₹40/kg",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2022-02/Potassium%20Nitrate%20Front.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Imidacloprid",
+                            "details": {
+                                "quantity": "0.5 kg/ha",
+                                "cost": "₹2000/kg",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/08/IMD178-1.png"
+                            }
+                        },
+                        {
+                            "name": "Chlorpyrifos",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost": "₹600/kg",
+                                "image_url": "https://www.vsdindustries.com/assets/img/blog/seo-img03.jpg"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Bengal Gram (Chickpeas)",
+                    "fertilizers": [
+                        {
+                            "name": "Phosphorus",
+                            "details": {
+                                "quantity": "30-40 kg/ha",
+                                "cost": "₹50/kg",
+                                "image_url": "https://www.phoslab.com/wp-content/uploads/2013/05/fertilizer-numbers.jpg"
+                            }
+                        },
+                        {
+                            "name": "Potassium",
+                            "details": {
+                                "quantity": "20 kg/ha",
+                                "cost": "₹40/kg",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2022-02/Potassium%20Nitrate%20Front.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Imidacloprid",
+                            "details": {
+                                "quantity": "0.5 kg/ha",
+                                "cost": "₹2000/kg",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/08/IMD178-1.png"
+                            }
+                        },
+                        {
+                            "name": "Carbendazim",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost": "₹700/kg",
+                                "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/8/440097120/SC/ZV/FQ/49379719/carbendazim-50-wp-500x500.jpeg"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Horse Gram",
+                    "fertilizers": [
+                        {
+                            "name": "Phosphorus",
+                            "details": {
+                                "quantity": "20-30 kg/ha",
+                                "cost": "₹50/kg",
+                                "image_url": "https://www.phoslab.com/wp-content/uploads/2013/05/fertilizer-numbers.jpg"
+                            }
+                        },
+                        {
+                            "name": "Potassium",
+                            "details": {
+                                "quantity": "20 kg/ha",
+                                "cost": "₹40/kg",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2022-02/Potassium%20Nitrate%20Front.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Imidacloprid",
+                            "details": {
+                                "quantity": "0.5 kg/ha",
+                                "cost": "₹2000/kg",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/08/IMD178-1.png"
+                            }
+                        },
+                        {
+                            "name": "Chlorpyrifos",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost": "₹600/kg",
+                                "image_url": "https://www.vsdindustries.com/assets/img/blog/seo-img03.jpg"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },        
+        {
+            "category": "Oilseeds",
+            "crops": [
+                {
+                    "name": "Groundnut",
+                    "fertilizers": [
+                        {
+                            "name": "NPK (12:32:16)",
+                            "details": {
+                                "quantity": "200 kg/ha",
+                                "cost_price": "₹1200",
+                                "image_url": "https://example.com/npk_12_32_16.jpg"
+                            }
+                        },
+                        {
+                            "name": "Gypsum",
+                            "details": {
+                                "quantity": "100 kg/ha",
+                                "cost_price": "₹300",
+                                "image_url": "https://5.imimg.com/data5/ANDROID/Default/2023/3/291772669/XT/BC/ZK/52516850/product-jpeg-500x500.jpg"
+                            }
+                        },
+                        {
+                            "name": "Farmyard Manure",
+                            "details": {
+                                "quantity": "5 tons/ha",
+                                "cost_price": "₹500",
+                                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/11/359738373/BC/ZD/CB/63106685/farm-yard-manure-fym.jpg"
+                            }
+                        },
+                        {
+                            "name": "Boron",
+                            "details": {
+                                "quantity": "10 kg/ha",
+                                "cost_price": "₹200",
+                                "image_url": "https://casadeamor.in/cdn/shop/files/boron250gm.jpg?v=1697618477&width=1920"
+                            }
+                        },
+                        {
+                            "name": "Zinc",
+                            "details": {
+                                "quantity": "5 kg/ha",
+                                "cost_price": "₹150",
+                                "image_url": "https://mahadhan.co.in/wp-content/uploads/2017/05/mircronutrients5.jpg"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Mancozeb",
+                            "details": {
+                                "quantity": "2 kg/ha",
+                                "cost_price": "₹250",
+                                "image_url": "https://agribegri.com/productimage/90f5ed1c5f7b0be5b50ecc28f121550b-11-08-22-18-43-56.webp"
+                            }
+                        },
+                        {
+                            "name": "Dimethoate",
+                            "details": {
+                                "quantity": "1 liter/ha",
+                                "cost_price": "₹500",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/06/Siddhi-400-x-400-px-31.webp"
+                            }
+                        },
+                        {
+                            "name": "Chlorpyrifos",
+                            "details": {
+                                "quantity": "1 liter/ha",
+                                "cost_price": "₹400",
+                                "image_url": "https://www.vsdindustries.com/assets/img/blog/seo-img03.jpg"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Sunflower",
+                    "fertilizers": [
+                        {
+                            "name": "NPK (20:20:0)",
+                            "details": {
+                                "quantity": "200 kg/ha",
+                                "cost_price": "₹1500",
+                                "image_url": "https://example.com/npk_20_20_0.jpg"
+                            }
+                        },
+                        {
+                            "name": "Urea",
+                            "details": {
+                                "quantity": "100 kg/ha",
+                                "cost_price": "₹500",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2020-04/UREA_0.png"
+                            }
+                        },
+                        {
+                            "name": "Super Phosphate",
+                            "details": {
+                                "quantity": "100 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://m.media-amazon.com/images/I/719wTVdzkYL.jpg"
+                            }
+                        },
+                        {
+                            "name": "Boron",
+                            "details": {
+                                "quantity": "10 kg/ha",
+                                "cost_price": "₹200",
+                                "image_url": "https://casadeamor.in/cdn/shop/files/boron250gm.jpg?v=1697618477&width=1920"
+                            }
+                        },
+                        {
+                            "name": "Zinc Sulphate",
+                            "details": {
+                                "quantity": "10 kg/ha",
+                                "cost_price": "₹150",
+                                "image_url": "https://mahadhan.co.in/wp-content/uploads/2017/05/mircronutrients5.jpg"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Imidacloprid",
+                            "details": {
+                                "quantity": "1 liter/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/08/IMD178-1.png"
+                            }
+                        },
+                        {
+                            "name": "Carbaryl",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹400",
+                                "image_url": "https://image.made-in-china.com/2f0j00oNphIltqZmcu/Agrochemical-Pesticide-Crop-Protection-Insecticide-99-Tc-85-Wp-Carbaryl.webp"
+                            }
+                        },
+                        {
+                            "name": "Chlorpyrifos",
+                            "details": {
+                                "quantity": "1 liter/ha",
+                                "cost_price": "₹500",
+                                "image_url": "https://www.vsdindustries.com/assets/img/blog/seo-img03.jpg"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Sesame (Til)",
+                    "fertilizers": [
+                        {
+                            "name": "NPK (20:20:0)",
+                            "details": {
+                                "quantity": "100 kg/ha",
+                                "cost_price": "₹750",
+                                "image_url": "https://example.com/npk_20_20_0.jpg"
+                            }
+                        },
+                        {
+                            "name": "Gypsum",
+                            "details": {
+                                "quantity": "50 kg/ha",
+                                "cost_price": "₹300",
+                                "image_url": "https://5.imimg.com/data5/ANDROID/Default/2023/3/291772669/XT/BC/ZK/52516850/product-jpeg-500x500.jpg"
+                            }
+                        },
+                        {
+                            "name": "Farmyard Manure",
+                            "details": {
+                                "quantity": "2,500 kg/ha",
+                                "cost_price": "₹500",
+                                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/11/359738373/BC/ZD/CB/63106685/farm-yard-manure-fym.jpg"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Imidacloprid",
+                            "details": {
+                                "quantity": "0.5 liters/ha",
+                                "cost_price": "₹300",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/08/IMD178-1.png"
+                            }
+                        },
+                        {
+                            "name": "Carbaryl",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹400",
+                                "image_url": "https://image.made-in-china.com/2f0j00oNphIltqZmcu/Agrochemical-Pesticide-Crop-Protection-Insecticide-99-Tc-85-Wp-Carbaryl.webp"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Castor",
+                    "fertilizers": [
+                        {
+                            "name": "NPK (12:32:16)",
+                            "details": {
+                                "quantity": "100 kg/ha",
+                                "cost_price": "₹800",
+                                "image_url": "https://example.com/npk_12_32_16.jpg"
+                            }
+                        },
+                        {
+                            "name": "Gypsum",
+                            "details": {
+                                "quantity": "50 kg/ha",
+                                "cost_price": "₹300",
+                                "image_url": "https://5.imimg.com/data5/ANDROID/Default/2023/3/291772669/XT/BC/ZK/52516850/product-jpeg-500x500.jpg"
+                            }
+                        },
+                        {
+                            "name": "Farmyard Manure",
+                            "details": {
+                                "quantity": "2,500 kg/ha",
+                                "cost_price": "₹500",
+                                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/11/359738373/BC/ZD/CB/63106685/farm-yard-manure-fym.jpg"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Chlorpyrifos",
+                            "details": {
+                                "quantity": "1 liter/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://www.vsdindustries.com/assets/img/blog/seo-img03.jpg"
+                            }
+                        },
+                        {
+                            "name": "Mancozeb",
+                            "details": {
+                                "quantity": "2 kg/ha",
+                                "cost_price": "₹400",
+                                "image_url": "https://agribegri.com/productimage/90f5ed1c5f7b0be5b50ecc28f121550b-11-08-22-18-43-56.webp"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Soybean",
+                    "fertilizers": [
+                        {
+                            "name": "NPK (20:20:0)",
+                            "details": {
+                                "quantity": "100 kg/ha",
+                                "cost_price": "₹900",
+                                "image_url": "https://example.com/npk_20_20_0.jpg"
+                            }
+                        },
+                        {
+                            "name": "Gypsum",
+                            "details": {
+                                "quantity": "50 kg/ha",
+                                "cost_price": "₹300",
+                                "image_url": "https://5.imimg.com/data5/ANDROID/Default/2023/3/291772669/XT/BC/ZK/52516850/product-jpeg-500x500.jpg"
+                            }
+                        },
+                        {
+                            "name": "Farmyard Manure",
+                            "details": {
+                                "quantity": "2,500 kg/ha",
+                                "cost_price": "₹500",
+                                "image_url": "https://5.imimg.com/data5/SELLER/Default/2023/11/359738373/BC/ZD/CB/63106685/farm-yard-manure-fym.jpg"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Carbaryl",
+                            "details": {
+                                "quantity": "1 liter/ha",
+                                "cost_price": "₹450",
+                                "image_url": "https://image.made-in-china.com/2f0j00oNphIltqZmcu/Agrochemical-Pesticide-Crop-Protection-Insecticide-99-Tc-85-Wp-Carbaryl.webp"
+                            }
+                        },
+                        {
+                            "name": "Imidacloprid",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹700",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/08/IMD178-1.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },        
+        {
+            "category": "Cash Crops",
+            "crops": [
+                {
+                    "name": "Sugarcane",
+                    "fertilizers": [
+                        {
+                            "name": "Nitrogen",
+                            "details": {
+                                "quantity": "150 kg/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://content.jdmagicbox.com/quickquotes/images_main/nitrogen-based-fertilizer-801175199-dk0poym8.jpg?impolicy=queryparam&im=Resize=(360,360),aspect=fit"
+                            }
+                        },
+                        {
+                            "name": "Phosphorus",
+                            "details": {
+                                "quantity": "70 kg/ha",
+                                "cost_price": "₹1,000",
+                                "image_url": "https://www.phoslab.com/wp-content/uploads/2013/05/fertilizer-numbers.jpg"
+                            }
+                        },
+                        {
+                            "name": "Potassium",
+                            "details": {
+                                "quantity": "110 kg/ha",
+                                "cost_price": "₹1,500",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2022-02/Potassium%20Nitrate%20Front.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Thiamethoxam",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://agribegri.com/productimage/d8e66745571e102237fa0e670659f7ca-11-20-23-10-22-08.webp"
+                            }
+                        },
+                        {
+                            "name": "Mancozeb",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹400",
+                                "image_url": "https://agribegri.com/productimage/90f5ed1c5f7b0be5b50ecc28f121550b-11-08-22-18-43-56.webp"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Cotton",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K (100-150:50-60:50-60 kg/ha)",
+                            "details": {
+                                "quantity": "120 kg/ha",
+                                "cost_price": "₹1,800",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Imidacloprid",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹700",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/08/IMD178-1.png"
+                            }
+                        },
+                        {
+                            "name": "Chlorpyrifos",
+                            "details": {
+                                "quantity": "1 liter/ha",
+                                "cost_price": "₹550",
+                                "image_url": "https://www.vsdindustries.com/assets/img/blog/seo-img03.jpg"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Tobacco",
+                    "fertilizers": [
+                        {
+                            "name": "Nitrogen",
+                            "details": {
+                                "quantity": "70 kg/ha",
+                                "cost_price": "₹500",
+                                "image_url": "https://content.jdmagicbox.com/quickquotes/images_main/nitrogen-based-fertilizer-801175199-dk0poym8.jpg?impolicy=queryparam&im=Resize=(360,360),aspect=fit"
+                            }
+                        },
+                        {
+                            "name": "Phosphorus",
+                            "details": {
+                                "quantity": "50 kg/ha",
+                                "cost_price": "₹700",
+                                "image_url": "https://www.phoslab.com/wp-content/uploads/2013/05/fertilizer-numbers.jpg"
+                            }
+                        },
+                        {
+                            "name": "Potassium",
+                            "details": {
+                                "quantity": "90 kg/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2022-02/Potassium%20Nitrate%20Front.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Thiodicarb",
+                            "details": {
+                                "quantity": "0.5 kg/ha",
+                                "cost_price": "₹450",
+                                "image_url": "https://www.kingquenson.com/FilesUpload/2018-12/2018120616121982941.jpg"
+                            }
+                        },
+                        {
+                            "name": "Mancozeb",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹400",
+                                "image_url": "https://agribegri.com/productimage/90f5ed1c5f7b0be5b50ecc28f121550b-11-08-22-18-43-56.webp"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },        
+        {
+            "category": "Horticultural Crops",
+            "crops": [
+                {
+                    "name": "Coconut",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "250 g per plant",
+                                "cost_price": "₹15",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Carbaryl",
+                            "details": {
+                                "quantity": "0.5 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://image.made-in-china.com/2f0j00oNphIltqZmcu/Agrochemical-Pesticide-Crop-Protection-Insecticide-99-Tc-85-Wp-Carbaryl.webp"
+                            }
+                        },
+                        {
+                            "name": "Copper fungicides",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹700",
+                                "image_url": "https://www.seedranch.com/v/vspfiles/photos/LIQUID-COPPER-FUNGICIDE-QT-2T.jpg"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Arecanut (Betel Nut)",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "250 g per plant",
+                                "cost_price": "₹15",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Carbaryl",
+                            "details": {
+                                "quantity": "0.5 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://image.made-in-china.com/2f0j00oNphIltqZmcu/Agrochemical-Pesticide-Crop-Protection-Insecticide-99-Tc-85-Wp-Carbaryl.webp"
+                            }
+                        },
+                        {
+                            "name": "Copper fungicides",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹700",
+                                "image_url": "https://www.seedranch.com/v/vspfiles/photos/LIQUID-COPPER-FUNGICIDE-QT-2T.jpg"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Coffee",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "110 kg/ha",
+                                "cost_price": "₹1,500",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper fungicides",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹700",
+                                "image_url": "https://www.seedranch.com/v/vspfiles/photos/LIQUID-COPPER-FUNGICIDE-QT-2T.jpg"
+                            }
+                        },
+                        {
+                            "name": "Endosulfan",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹800",
+                                "image_url": "https://th.bing.com/th/id/OIP.w2RSGFdWhdb2Rn3bU4QlgAHaEg?rs=1&pid=ImgDetMain"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Pepper",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "110 kg/ha",
+                                "cost_price": "₹1,500",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper fungicides",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹700",
+                                "image_url": "https://www.seedranch.com/v/vspfiles/photos/LIQUID-COPPER-FUNGICIDE-QT-2T.jpg"
+                            }
+                        },
+                        {
+                            "name": "Endosulfan",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹800",
+                                "image_url": "https://th.bing.com/th/id/OIP.w2RSGFdWhdb2Rn3bU4QlgAHaEg?rs=1&pid=ImgDetMain"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Cardamom",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "110 kg/ha",
+                                "cost_price": "₹1,500",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper fungicides",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹700",
+                                "image_url": "https://www.seedranch.com/v/vspfiles/photos/LIQUID-COPPER-FUNGICIDE-QT-2T.jpg"
+                            }
+                        },
+                        {
+                            "name": "Endosulfan",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹800",
+                                "image_url": "https://th.bing.com/th/id/OIP.w2RSGFdWhdb2Rn3bU4QlgAHaEg?rs=1&pid=ImgDetMain"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Cashew Nut",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "110 kg/ha",
+                                "cost_price": "₹1,500",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper fungicides",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹700",
+                                "image_url": "https://www.seedranch.com/v/vspfiles/photos/LIQUID-COPPER-FUNGICIDE-QT-2T.jpg"
+                            }
+                        },
+                        {
+                            "name": "Endosulfan",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹800",
+                                "image_url": "https://th.bing.com/th/id/OIP.w2RSGFdWhdb2Rn3bU4QlgAHaEg?rs=1&pid=ImgDetMain"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },                       
+        {
+            "category": "Fruits",
+            "crops": [
+                {
+                    "name": "Banana",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "150 kg/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper oxychloride",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://5.imimg.com/data5/ANDROID/Default/2024/9/450525591/YK/EL/AV/76981098/product-jpeg.jpg"
+                            }
+                        },
+                        {
+                            "name": "Imidacloprid",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/08/IMD178-1.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Mango",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "150 kg/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper oxychloride",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://5.imimg.com/data5/ANDROID/Default/2024/9/450525591/YK/EL/AV/76981098/product-jpeg.jpg"
+                            }
+                        },
+                        {
+                            "name": "Imidacloprid",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/08/IMD178-1.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Papaya",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "150 kg/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper oxychloride",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://5.imimg.com/data5/ANDROID/Default/2024/9/450525591/YK/EL/AV/76981098/product-jpeg.jpg"
+                            }
+                        },
+                        {
+                            "name": "Imidacloprid",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/08/IMD178-1.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Pineapple",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "150 kg/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper oxychloride",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://5.imimg.com/data5/ANDROID/Default/2024/9/450525591/YK/EL/AV/76981098/product-jpeg.jpg"
+                            }
+                        },
+                        {
+                            "name": "Imidacloprid",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/08/IMD178-1.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Sapota (Chikoo)",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "150 kg/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper oxychloride",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://5.imimg.com/data5/ANDROID/Default/2024/9/450525591/YK/EL/AV/76981098/product-jpeg.jpg"
+                            }
+                        },
+                        {
+                            "name": "Imidacloprid",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/08/IMD178-1.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Jackfruit",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "150 kg/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper oxychloride",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://5.imimg.com/data5/ANDROID/Default/2024/9/450525591/YK/EL/AV/76981098/product-jpeg.jpg"
+                            }
+                        },
+                        {
+                            "name": "Imidacloprid",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/08/IMD178-1.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Grapes",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "150 kg/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper oxychloride",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://5.imimg.com/data5/ANDROID/Default/2024/9/450525591/YK/EL/AV/76981098/product-jpeg.jpg"
+                            }
+                        },
+                        {
+                            "name": "Imidacloprid",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/08/IMD178-1.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Guava",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "150 kg/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper oxychloride",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://5.imimg.com/data5/ANDROID/Default/2024/9/450525591/YK/EL/AV/76981098/product-jpeg.jpg"
+                            }
+                        },
+                        {
+                            "name": "Imidacloprid",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/08/IMD178-1.png"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Pomegranate",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "150 kg/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper oxychloride",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://5.imimg.com/data5/ANDROID/Default/2024/9/450525591/YK/EL/AV/76981098/product-jpeg.jpg"
+                            }
+                        },
+                        {
+                            "name": "Imidacloprid",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹1,200",
+                                "image_url": "https://www.katyayaniorganics.com/wp-content/uploads/2022/08/IMD178-1.png"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },                
+        {
+            "category": "Vegetables",
+            "crops": [
+                {
+                    "name": "Tomato",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "75 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper-based fungicides",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹500",
+                                "image_url": "https://southernag.com/wp-content/uploads/2020/06/COPPER-LIQ-FUNG-PINT-mu-1024x1024.jpg"
+                            }
+                        },
+                        {
+                            "name": "Neem oil",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹300",
+                                "image_url": "https://rukminim2.flixcart.com/image/850/1000/kwnv6a80/soil-manure/c/j/f/organic-cold-pressed-water-soluble-neem-oil-for-plant-garden-2-original-imag9aahu3rkzkjp.jpeg?q=90&crop=false"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Onion",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "75 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper-based fungicides",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹500",
+                                "image_url": "https://southernag.com/wp-content/uploads/2020/06/COPPER-LIQ-FUNG-PINT-mu-1024x1024.jpg"
+                            }
+                        },
+                        {
+                            "name": "Neem oil",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹300",
+                                "image_url": "https://rukminim2.flixcart.com/image/850/1000/kwnv6a80/soil-manure/c/j/f/organic-cold-pressed-water-soluble-neem-oil-for-plant-garden-2-original-imag9aahu3rkzkjp.jpeg?q=90&crop=false"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Potato",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "75 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper-based fungicides",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹500",
+                                "image_url": "https://southernag.com/wp-content/uploads/2020/06/COPPER-LIQ-FUNG-PINT-mu-1024x1024.jpg"
+                            }
+                        },
+                        {
+                            "name": "Neem oil",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹300",
+                                "image_url": "https://rukminim2.flixcart.com/image/850/1000/kwnv6a80/soil-manure/c/j/f/organic-cold-pressed-water-soluble-neem-oil-for-plant-garden-2-original-imag9aahu3rkzkjp.jpeg?q=90&crop=false"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Brinjal (Eggplant)",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "75 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper-based fungicides",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹500",
+                                "image_url": "https://southernag.com/wp-content/uploads/2020/06/COPPER-LIQ-FUNG-PINT-mu-1024x1024.jpg"
+                            }
+                        },
+                        {
+                            "name": "Neem oil",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹300",
+                                "image_url": "https://rukminim2.flixcart.com/image/850/1000/kwnv6a80/soil-manure/c/j/f/organic-cold-pressed-water-soluble-neem-oil-for-plant-garden-2-original-imag9aahu3rkzkjp.jpeg?q=90&crop=false"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Cabbage",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "75 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper-based fungicides",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹500",
+                                "image_url": "https://southernag.com/wp-content/uploads/2020/06/COPPER-LIQ-FUNG-PINT-mu-1024x1024.jpg"
+                            }
+                        },
+                        {
+                            "name": "Neem oil",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹300",
+                                "image_url": "https://rukminim2.flixcart.com/image/850/1000/kwnv6a80/soil-manure/c/j/f/organic-cold-pressed-water-soluble-neem-oil-for-plant-garden-2-original-imag9aahu3rkzkjp.jpeg?q=90&crop=false"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Cauliflower",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "75 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper-based fungicides",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹500",
+                                "image_url": "https://southernag.com/wp-content/uploads/2020/06/COPPER-LIQ-FUNG-PINT-mu-1024x1024.jpg"
+                            }
+                        },
+                        {
+                            "name": "Neem oil",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹300",
+                                "image_url": "https://rukminim2.flixcart.com/image/850/1000/kwnv6a80/soil-manure/c/j/f/organic-cold-pressed-water-soluble-neem-oil-for-plant-garden-2-original-imag9aahu3rkzkjp.jpeg?q=90&crop=false"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Beans",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "75 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper-based fungicides",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹500",
+                                "image_url": "https://southernag.com/wp-content/uploads/2020/06/COPPER-LIQ-FUNG-PINT-mu-1024x1024.jpg"
+                            }
+                        },
+                        {
+                            "name": "Neem oil",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹300",
+                                "image_url": "https://rukminim2.flixcart.com/image/850/1000/kwnv6a80/soil-manure/c/j/f/organic-cold-pressed-water-soluble-neem-oil-for-plant-garden-2-original-imag9aahu3rkzkjp.jpeg?q=90&crop=false"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Carrot",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "75 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper-based fungicides",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹500",
+                                "image_url": "https://southernag.com/wp-content/uploads/2020/06/COPPER-LIQ-FUNG-PINT-mu-1024x1024.jpg"
+                            }
+                        },
+                        {
+                            "name": "Neem oil",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹300",
+                                "image_url": "https://rukminim2.flixcart.com/image/850/1000/kwnv6a80/soil-manure/c/j/f/organic-cold-pressed-water-soluble-neem-oil-for-plant-garden-2-original-imag9aahu3rkzkjp.jpeg?q=90&crop=false"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Okra (Lady's Finger)",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "75 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper-based fungicides",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹500",
+                                "image_url": "https://southernag.com/wp-content/uploads/2020/06/COPPER-LIQ-FUNG-PINT-mu-1024x1024.jpg"
+                            }
+                        },
+                        {
+                            "name": "Neem oil",
+                            "details": {
+                                "quantity": "0.5 liter/ha",
+                                "cost_price": "₹300",
+                                "image_url": "https://rukminim2.flixcart.com/image/850/1000/kwnv6a80/soil-manure/c/j/f/organic-cold-pressed-water-soluble-neem-oil-for-plant-garden-2-original-imag9aahu3rkzkjp.jpeg?q=90&crop=false"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },          
+        {
+            "category": "Spices and Condiments",
+            "crops": [
+                {
+                    "name": "Turmeric",
+                    "fertilizers": [
+                        {
+                            "name": "Nitrogen",
+                            "details": {
+                                "quantity": "40 kg/ha",
+                                "cost_price": "₹250",
+                                "image_url": "https://content.jdmagicbox.com/quickquotes/images_main/nitrogen-based-fertilizer-801175199-dk0poym8.jpg?impolicy=queryparam&im=Resize=(360,360),aspect=fit"
+                            }
+                        },
+                        {
+                            "name": "Phosphorus",
+                            "details": {
+                                "quantity": "35 kg/ha",
+                                "cost_price": "₹300",
+                                "image_url": "https://www.phoslab.com/wp-content/uploads/2013/05/fertilizer-numbers.jpg"
+                            }
+                        },
+                        {
+                            "name": "Potassium",
+                            "details": {
+                                "quantity": "55 kg/ha",
+                                "cost_price": "₹250",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2022-02/Potassium%20Nitrate%20Front.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Carbendazim",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/8/440097120/SC/ZV/FQ/49379719/carbendazim-50-wp-500x500.jpeg"
+                            }
+                        },
+                        {
+                            "name": "Neem-based insecticides",
+                            "details": {
+                                "quantity": "1 liter/ha",
+                                "cost_price": "₹400",
+                                "image_url": "https://krishisevakendra.in/cdn/shop/files/Dr.neemBottle.webp?v=1714652410&width=1445"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Ginger",
+                    "fertilizers": [
+                        {
+                            "name": "Nitrogen",
+                            "details": {
+                                "quantity": "40 kg/ha",
+                                "cost_price": "₹250",
+                                "image_url": "https://content.jdmagicbox.com/quickquotes/images_main/nitrogen-based-fertilizer-801175199-dk0poym8.jpg?impolicy=queryparam&im=Resize=(360,360),aspect=fit"
+                            }
+                        },
+                        {
+                            "name": "Phosphorus",
+                            "details": {
+                                "quantity": "35 kg/ha",
+                                "cost_price": "₹300",
+                                "image_url": "https://www.phoslab.com/wp-content/uploads/2013/05/fertilizer-numbers.jpg"
+                            }
+                        },
+                        {
+                            "name": "Potassium",
+                            "details": {
+                                "quantity": "55 kg/ha",
+                                "cost_price": "₹250",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2022-02/Potassium%20Nitrate%20Front.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Carbendazim",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/8/440097120/SC/ZV/FQ/49379719/carbendazim-50-wp-500x500.jpeg"
+                            }
+                        },
+                        {
+                            "name": "Neem-based insecticides",
+                            "details": {
+                                "quantity": "1 liter/ha",
+                                "cost_price": "₹400",
+                                "image_url": "https://krishisevakendra.in/cdn/shop/files/Dr.neemBottle.webp?v=1714652410&width=1445"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Garlic",
+                    "fertilizers": [
+                        {
+                            "name": "Nitrogen",
+                            "details": {
+                                "quantity": "40 kg/ha",
+                                "cost_price": "₹250",
+                                "image_url": "https://content.jdmagicbox.com/quickquotes/images_main/nitrogen-based-fertilizer-801175199-dk0poym8.jpg?impolicy=queryparam&im=Resize=(360,360),aspect=fit"
+                            }
+                        },
+                        {
+                            "name": "Phosphorus",
+                            "details": {
+                                "quantity": "35 kg/ha",
+                                "cost_price": "₹300",
+                                "image_url": "https://www.phoslab.com/wp-content/uploads/2013/05/fertilizer-numbers.jpg"
+                            }
+                        },
+                        {
+                            "name": "Potassium",
+                            "details": {
+                                "quantity": "55 kg/ha",
+                                "cost_price": "₹250",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2022-02/Potassium%20Nitrate%20Front.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Carbendazim",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹600",
+                                "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/8/440097120/SC/ZV/FQ/49379719/carbendazim-50-wp-500x500.jpeg"
+                            }
+                        },
+                        {
+                            "name": "Neem-based insecticides",
+                            "details": {
+                                "quantity": "1 liter/ha",
+                                "cost_price": "₹400",
+                                "image_url": "https://krishisevakendra.in/cdn/shop/files/Dr.neemBottle.webp?v=1714652410&width=1445"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "Plantation Crops",
+            "crops": [
+                {
+                    "name": "Rubber",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "100 kg/ha (based on leaf analysis)",
+                                "cost_price": "₹800",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper oxychloride",
+                            "details": {
+                                "quantity": "2 kg/ha",
+                                "cost_price": "₹500",
+                                "image_url": "https://5.imimg.com/data5/ANDROID/Default/2024/9/450525591/YK/EL/AV/76981098/product-jpeg.jpg"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Tea",
+                    "fertilizers": [
+                        {
+                            "name": "N-P-K",
+                            "details": {
+                                "quantity": "150 kg/ha",
+                                "cost_price": "₹900",
+                                "image_url": "https://iffco-public-assets.s3.ap-south-1.amazonaws.com/s3fs-public/2019-09/npk-12-32-16.png"
+                            }
+                        },
+                        {
+                            "name": "Micronutrients",
+                            "details": {
+                                "quantity": "as needed",
+                                "cost_price": "₹300",
+                                "image_url": "https://m.media-amazon.com/images/I/81c78a6wIhL.AC_UF1000,1000_QL80.jpg"
+                            }
+                        }
+                    ],
+                    "pesticides": [
+                        {
+                            "name": "Copper fungicides",
+                            "details": {
+                                "quantity": "1 kg/ha",
+                                "cost_price": "₹400",
+                                "image_url": "https://www.seedranch.com/v/vspfiles/photos/LIQUID-COPPER-FUNGICIDE-QT-2T.jpg"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

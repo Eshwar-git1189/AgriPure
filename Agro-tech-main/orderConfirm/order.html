@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Order Confirmation</title>
+    <link rel="stylesheet" href="order.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Thank You for Your Purchase!</h1>
+        <div id="order-details">
+            <h2>Order Details</h2>
+            <p><strong>Order Number:</strong> <span id="order-number"></span></p>
+            <p><strong>Product:</strong> <span id="product-name"></span></p>
+            <p><strong>Quantity:</strong> <span id="quantity"></span></p>
+            <p><strong>Total Amount:</strong> ₹<span id="total-amount"></span></p>
+            <p><strong>Payment Method:</strong> <span id="payment-method"></span></p>
+        </div>
+        <div id="delivery-details">
+            <h2>Delivery Information</h2>
+            <p><strong>Estimated Delivery Date:</strong> <span id="delivery-date"></span></p>
+            <p><strong>Email:</strong> <span id="email"></span></p>
+        </div>
+        <button id="back-to-shop" class="btn">Continue Shopping</button>
+    </div>
+    <div class="gtranslate_wrapper"></div>
+    <script>
+      window.gtranslateSettings = {
+        default_language: "en",
+        native_language_names: true,
+        detect_browser_language: true,
+        languages: ["en", "kn"],
+        wrapper_selector: ".gtranslate_wrapper",
+        horizontal_position: "right",
+        vertical_position: "top",
+      };
+    </script>
+    <script
+      src="https://cdn.gtranslate.net/widgets/latest/ln.js"
+      defer
+    ></script>
+    <script src="order.js"></script>
+</body>
+</html>
+

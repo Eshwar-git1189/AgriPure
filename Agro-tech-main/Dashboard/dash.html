@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <title>Dashboard</title>
+
+    <link rel="stylesheet" type="text/css" href="dash.css" />
+
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+  </head>
+
+  <body>
+    <div class="sidebar" id="sidebar">
+      <a href="#"><i class="fas fa-chart-line"></i> Overview</a>
+      <a href="#"><i class="fas fa-seedling"></i> Crops</a>
+      <a href="#fertilizers"><i class="fas fa-flask"></i> Fertilizers</a>
+      <a href="#pesticides"><i class="fas fa-bug"></i> Pesticides</a>
+    </div>
+
+    <div class="main-content">
+      <button class="menu-btn" id="menuBtn">☰</button>
+
+      <h1 class="main-title">Dashboard</h1>
+
+      <div id="user-selections">
+        <p id="selected-category"></p>
+        <p id="selected-crop"></p>
+        <p id="selected-district"></p>
+        <p id="selected-soil-type"></p>
+      </div>
+
+      <section id="fertilizers">
+        <h2>Recommended Fertilizers</h2>
+        <div class="product-grid">
+          <!-- Fertilizers will be dynamically inserted here -->
+        </div>
+      </section>
+
+      <section id="pesticides">
+        <h2>Recommended Pesticides</h2>
+        <div class="product-grid">
+          <!-- Pesticides will be dynamically inserted here -->
+        </div>
+      </section>
+
+      <a href="../chatbot/index.html" class="chatbot-icon">
+        <i class="fas fa-comments"></i>
+      </a>
+    </div>
+    <div class="gtranslate_wrapper"></div>
+    <script>
+      window.gtranslateSettings = {
+        default_language: "en",
+        native_language_names: true,
+        detect_browser_language: true,
+        languages: ["en", "kn"],
+        wrapper_selector: ".gtranslate_wrapper",
+        horizontal_position: "right",
+        vertical_position: "top",
+      };
+    </script>
+    <script
+      src="https://cdn.gtranslate.net/widgets/latest/ln.js"
+      defer
+    ></script>
+
+    <script src="dash.js"></script>
+  </body>
+</html>

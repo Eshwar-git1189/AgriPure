@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f4f7;
+    height: 100vh;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.chat-container {
+    width: 100%;
+    max-width: 600px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+}
+
+.chat-header {
+    background: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.chat-header h1 {
+    font-size: 1.5rem;
+    margin: 0;
+}
+
+.chat-messages {
+    flex: 1;
+    overflow-y: auto;
+    padding: 20px;
+}
+
+.message {
+    margin-bottom: 15px;
+    padding: 10px 15px;
+    border-radius: 15px;
+    max-width: 80%;
+    word-wrap: break-word;
+}
+
+.user {
+    background: #E3F2FD;
+    margin-left: auto;
+    border-bottom-right-radius: 5px;
+}
+
+.bot {
+    background: #F5F5F5;
+    margin-right: auto;
+    border-bottom-left-radius: 5px;
+}
+
+/* New styles for formatted bot responses */
+.bot-response {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.response-title {
+    font-weight: bold;
+    color: #2E7D32;
+    font-size: 1.1em;
+    margin-bottom: 8px;
+}
+
+.response-content {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.info-row {
+    display: flex;
+    padding: 4px 0;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.info-label {
+    font-weight: 600;
+    min-width: 120px;
+    color: #555;
+}
+
+.info-value {
+    flex: 1;
+    color: #333;
+}
+
+.plain-text {
+    padding: 4px 0;
+    color: #333;
+}
+
+.chat-input {
+    display: flex;
+    padding: 20px;
+    background: #f8f9fa;
+    border-top: 1px solid #dee2e6;
+}
+
+input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    background: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: #45a049;
+}
+
+pre {
+    white-space: pre-wrap;
+    font-family: inherit;
+}

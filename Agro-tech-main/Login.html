@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agri Login</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Agri</h1>
+        <form class="login-form" id="loginForm">
+            <h2>Login</h2>
+            <div class="input-group">
+                <label for="mobile">Enter Your Mobile Number</label>
+                <input type="tel" id="mobile" name="mobile" placeholder="Mobile Number" required>
+                <button type="button" class="btn" id="send-otp" onclick="sendOTp()">Send OTP</button>
+            </div>
+            <div class="input-group" id="otpverify" style="display: none;">
+                <label for="otp_inp">Enter OTP</label>
+                <input type="text" id="otp_inp" name="otp_inp" placeholder="OTP" pattern="[0-9]{6}" required>
+                <button type="button" class="btn" id="verify-otp">Verify OTP</button>
+                <div id="timer"></div>
+            </div>
+        </form>
+    </div>
+    <div class="gtranslate_wrapper"></div>
+    <script>
+      window.gtranslateSettings = {
+        default_language: "en",
+        native_language_names: true,
+        detect_browser_language: true,
+        languages: ["en", "kn"],
+        wrapper_selector: ".gtranslate_wrapper",
+        horizontal_position: "right",
+        vertical_position: "top",
+      };
+    </script>
+    <script src="https://cdn.gtranslate.net/widgets/latest/ln.js" defer></script>
+    <script src="login.js"></script>
+</body>
+</html>

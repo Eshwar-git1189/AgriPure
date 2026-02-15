@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment</title>
+    <link rel="stylesheet" href="pay.css">
+</head>
+<body>
+    <div class="container">
+        <div class="product-image">
+            <img id="productImage" src="" alt="Product Image">
+        </div>
+        <div class="product-details">
+            <h1 id="productName"></h1>
+            <p id="productQuantity"></p>
+            <p id="productPrice"></p>
+            <p id="discountedPrice"></p>
+            <form id="paymentForm">
+                <input type="email" id="email" placeholder="Enter your email" required>
+                <div class="payment-options">
+                    <label>
+                        <input type="radio" name="paymentMethod" value="online" required> Online Payment
+                    </label>
+                    <label>
+                        <input type="radio" name="paymentMethod" value="cod"> Cash on Delivery
+                    </label>
+                </div>
+                <button type="submit" id="confirmPaymentBtn">Confirm Payment</button>
+            </form>
+        </div>
+    </div>
+    <div class="gtranslate_wrapper"></div>
+    <script>
+      window.gtranslateSettings = {
+        default_language: "en",
+        native_language_names: true,
+        detect_browser_language: true,
+        languages: ["en", "kn"],
+        wrapper_selector: ".gtranslate_wrapper",
+        horizontal_position: "right",
+        vertical_position: "top",
+      };
+    </script>
+    <script
+      src="https://cdn.gtranslate.net/widgets/latest/ln.js"
+      defer
+    ></script>
+    <script src="pay.js"></script>
+</body>
+</html>

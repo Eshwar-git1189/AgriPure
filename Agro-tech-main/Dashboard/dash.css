@@ -1,0 +1,313 @@
+:root {
+  --main-color: #00FF26;
+  --dark-green: #008F11;
+  --light-green: #7FFF00;
+  --bg-color: #0C261E;
+  --text-color: #FFFFFF;
+  --item-bg: rgba(255, 255, 255, 0.1);
+}
+
+* {
+    margin: 0;
+  
+    padding: 0;
+  
+    font-family: sans-serif;
+  
+    box-sizing: border-box;
+  }
+  
+  body {
+    display: flex;
+    background-image: url(/images/background.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: var(--text-color);
+  }
+  
+  .sidebar {
+    width: 250px;
+  
+    height: 100vh;
+  
+    background-color: rgba(12, 38, 30, 0.8);
+  
+    padding-top: 20px;
+  
+    position: fixed;
+  
+    left: -250px;
+  
+    transition: 0.3s;
+  }
+  
+  .sidebar a {
+    padding: 15px 25px;
+  
+    text-decoration: none;
+  
+    font-size: 18px;
+  
+    color: var(--text-color);
+  
+    display: block;
+  
+    transition: 0.3s;
+  }
+  
+  .sidebar a:hover {
+    background-color: var(--main-color);
+    color: var(--bg-color);
+  }
+  
+  .sidebar i {
+    margin-right: 10px;
+  }
+  
+  .main-content {
+    flex: 1;
+  
+    padding: 20px;
+  
+    margin-left: 0;
+  
+    transition: 0.3s;
+  }
+  
+  .menu-btn {
+    font-size: 24px;
+  
+    cursor: pointer;
+  
+    background-color: transparent;
+  
+    border: none;
+  
+    color: var(--main-color);
+  
+    margin-bottom: 20px;
+  }
+  
+  .sidebar.active {
+    left: 0;
+  }
+  
+  .main-content.active {
+    margin-left: 250px;
+  }
+
+  section {
+    margin-bottom: 30px;
+  }
+
+  h2 {
+    color: var(--main-color);
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  }
+
+  .product-list {
+    list-style-type: none;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+  }
+
+  .product-list li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+  }
+
+  .product-list li:last-child {
+    border-bottom: none;
+  }
+
+  .product-name {
+    font-weight: bold;
+  }
+
+  .product-quantity {
+    color: var(--text-color);
+  }
+
+  .product-cost {
+    color: var(--main-color);
+    font-size: 20px;
+    text-shadow: 0 0 5px rgba(0, 255, 38, 0.5);
+  }
+
+  .product-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+  }
+
+  .product-item {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    padding: 20px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .product-item a {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+  }
+
+  .product-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 40px 0 rgba(0, 255, 38, 0.2);
+    cursor: pointer;
+  }
+
+  .product-item::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0) 100%);
+    border-radius: 10px;
+    pointer-events: none;
+  }
+
+  .product-item h3 {
+    color: var(--main-color);
+  }
+
+  .product-quantity {
+    color: var(--text-color);
+  }
+
+  .product-cost {
+    color: var(--main-color);
+    font-size: 20px;
+    text-shadow: 0 0 5px rgba(0, 255, 38, 0.5);
+  }
+
+  @media (max-width: 1200px) {
+    .product-grid {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+
+  @media (max-width: 992px) {
+    .product-grid {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  @media (max-width: 768px) {
+    .product-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .product-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .main-title {
+    text-align: center;
+    font-size: 48px;
+    font-weight: bold;
+    color: var(--main-color);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-bottom: 30px;
+  }
+/* GTranslate Widget Styling */
+.gt_float_switcher {
+    font-family: 'Poppins', sans-serif !important;
+    background-color: rgba(255, 255, 255, 0.1) !important;
+    backdrop-filter: blur(10px) !important;
+    -webkit-backdrop-filter: blur(10px) !important;
+    border: 1px solid rgba(255, 255, 255, 0.18) !important;
+    border-radius: 10px !important;
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37) !important;
+    padding: 5px !important;
+    transition: all 0.3s ease !important;
+}
+
+.gt_float_switcher:hover {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+    transform: translateY(-2px) !important;
+}
+
+.gt_float_switcher .gt_selected {
+    background-color: rgba(0, 255, 38, 0.2) !important;
+    color: #ffffff !important;
+    font-weight: 600 !important;
+    border-radius: 5px !important;
+}
+
+.gt_float_switcher .gt_selected:hover {
+    background-color: rgba(0, 255, 38, 0.3) !important;
+}
+
+.gt_float_switcher .gt_option:hover {
+    background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+.gt_float_switcher .gt_option, 
+.gt_float_switcher .gt_selected {
+    padding: 5px 10px !important;
+    transition: all 0.2s ease !important;
+}
+
+.gt_float_switcher .gt_option a,
+.gt_float_switcher .gt_selected a {
+    color: #ffffff !important;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2) !important;
+}
+
+.gt_float_switcher .gt_option:last-child {
+    border-bottom: none !important;
+}
+
+.product-item.recent-purchase {
+    border: 2px solid var(--main-color);
+    box-shadow: 0 0 15px var(--main-color);
+}
+
+.recent-purchase-label {
+    background-color: var(--main-color);
+    color: var(--bg-color);
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 0.8em;
+    font-weight: bold;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+/* Add this CSS to style the chatbot icon */
+.chatbot-icon {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: var(--main-color);
+    color: var(--bg-color);
+    border-radius: 50%;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    font-size: 24px;
+    transition: background-color 0.3s;
+}
+
+.chatbot-icon:hover {
+    background-color: var(--dark-green);
+    cursor: pointer;
+}
